@@ -21,7 +21,7 @@ body{
 #top{
     color: hsl(0, 0%, 100%);
     padding: 20px 0;
-    font-family: "Inter";
+    font-family: 'Inter', sans-serif;
     font-weight: 700;
     font-size: 28px;
 }
@@ -32,7 +32,7 @@ body{
 #middle{
     color: hsla(0, 0%, 100%, 0.75);
     padding-bottom: 23px;
-    font-family: "Inter";
+    font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-size: 15px;
 }
@@ -40,7 +40,7 @@ body{
     color: hsla(0, 0%, 100%, 0.75);
     display: flex;
     padding: 0 0;
-    font-family: "Lexend Deca";
+    font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
     font-size: 15px;
 }
@@ -50,13 +50,13 @@ body{
 }
 .stat1{
     color: hsl(0, 0%, 100%);
-    font-family: "Inter";
+    font-family: 'Inter', sans-serif;
     font-weight: 700;
     font-size: 20px;
 }
 .stat2{
     color: hsla(0, 0%, 100%, 0.6);
-    font-family: "Inter";
+    font-family: 'Inter', sans-serif;
     font-weight: 400;
 }
 #maincontent .outer{
